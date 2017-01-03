@@ -15,10 +15,10 @@
 var dataCacheName = 'QVGAEMS-v2';
 var cacheName = 'QVGAEMS';
 var filesToCache = [
-  '/',
-  '/index.html',
-  '/scripts/app.js',
-  '/styles/inline.css'
+  '/pwa',
+  '/pwa/index.html',
+  '/pwa/scripts/app.js',
+  '/pwa/styles/inline.css'
 ];
 
 self.addEventListener('install', function(e) {
