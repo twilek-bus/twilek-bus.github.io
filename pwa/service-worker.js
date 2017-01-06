@@ -18,7 +18,11 @@ var filesToCache = [
   './',
   './index.html',
   './scripts/app.js',
-  './styles/inline.css'
+  './styles/inline.css',
+  './images/LaReponseD-play.png',
+  './images/RaymondBarmitzva-play.png',
+  './images/15emeDegreJaune-play.png',
+  './images/SuperMoitMoit-play'
 ];
 
 self.addEventListener('install', function(e) {
