@@ -22,7 +22,11 @@ var filesToCache = [
   './images/LaReponseD-play.png',
   './images/RaymondBarmitzva-play.png',
   './images/15emeDegreJaune-play.png',
-  './images/SuperMoitMoit-play'
+  './images/SuperMoitMoit-play.png',
+  './sounds/super-moit-moit.ogg',
+  './sounds/d.ogg',
+  './sounds/barlrlmitzva.ogg',
+  './sounds/15-degre-jaune.ogg'
 ];
 
 self.addEventListener('install', function(e) {
